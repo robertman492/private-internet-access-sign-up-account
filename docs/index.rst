@@ -3,7 +3,7 @@ How to Sign Up for a Private Internet Access (PIA) Account Easily?
 
 In an era where online privacy and security are becoming more critical, using a Virtual Private Network (VPN) is a smart choice. **Private Internet Access (PIA)** is one of the most popular VPN services, known for its robust security features, fast connection speeds, and user-friendly interface. Whether you're looking to secure your browsing activity, access geo-restricted content, or ensure your online privacy, PIA is a reliable option.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
